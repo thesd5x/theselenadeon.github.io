@@ -1,0 +1,24 @@
+header{
+  position: absolute;
+  padding: 0px 255px 0px 255px;
+  margin: 0px;
+  display: fixed;
+  justify-content: space-between;
+  align-items: center;
+}
+
+body {
+  text-align: center;
+  margin: 0px;
+  padding: 0px 10px 0px 0px;
+  flex-wrap: wrap;
+  background: linear-gradient(90deg, #B0FC38, #FFFFFF, #45B6FE, #F3E260);
+}
+img {
+  width: 35%;
+  padding: 2%;
+  margin: 1px auto;
+  display: block;
+}
+
+@media (max-width: 100px)
